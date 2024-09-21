@@ -2,7 +2,6 @@
 - 👀 I’m interested in ML and web dev.
 - 🌱 I’m currently learning express and backend.
 - 💞️ I’m looking to collaborate on ML projects.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love legos.
 
 <!---
