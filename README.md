@@ -1,2 +1,2 @@
-👋 Hi, I’m Dane, a junior studying Computer Science @ UBC and currently interning @ Tesla. Feel free to take a look at my projects!
+👋 Hi, I’m Dane, a junior studying CS & AI @ UBC and interning @ Tesla, working on distributed systems for energy trading. Feel free to take a look at my projects!
 
